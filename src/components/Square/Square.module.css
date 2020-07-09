@@ -1,0 +1,14 @@
+.sq {
+  height: 150px;
+  width: 150px;
+  background-color: dimgrey;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.sq:hover {
+  transform: scale(1.02);
+  box-shadow: 2px 2px 2px dodgerblue;
+}
